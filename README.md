@@ -53,3 +53,5 @@ Termos e conceitos:
 
             <img width="1292" height="600" alt="image" src="https://github.com/user-attachments/assets/d0d249dd-c16e-4268-b030-c4ddad577f41" />
 
+            <img width="844" height="499" alt="image" src="https://github.com/user-attachments/assets/36c29d35-4252-49af-a3c7-4e6ea83d6a21" />
+
