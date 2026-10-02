@@ -49,3 +49,7 @@ Termos e conceitos:
             - {key : dados}
             
             → definir se predição ou previsão
+
+
+            <img width="1292" height="600" alt="image" src="https://github.com/user-attachments/assets/d0d249dd-c16e-4268-b030-c4ddad577f41" />
+
